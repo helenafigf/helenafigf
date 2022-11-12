@@ -1,4 +1,15 @@
 ### Hi there 👋
+- 📫 How to reach me
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-figueiredo-a34b16235/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helenafigf)
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&color=blue&facebook&logo=facebook&logoColor=white)](https://www.facebook.com/helena.figueiredo.566/)
+
+- 😄 Pronouns: she/her
+- 🌱 I’m currently learning React
+
+
 
 <!--
 **helenafigf/helenafigf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-figueiredo-a34b16235/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helenafigf)
-[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&color=blue&facebook&logo=facebook&logoColor=white)](https://www.facebookcom/helena.figueiredo.566/)
 
