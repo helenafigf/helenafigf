@@ -6,7 +6,7 @@ I'm working in progress frontend developer...
 - 😄 Pronouns: she/her
 
 
-## 🛠 Habilidades
+## 🛠 Skills
 Javascript, HTML, CSS
 
 
