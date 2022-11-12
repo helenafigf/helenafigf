@@ -5,9 +5,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-figueiredo-a34b16235/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helenafigf)
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&color=blue&facebook&logo=facebook&logoColor=white)](https://www.facebook.com/helena.figueiredo.566/)
-
-- 😄 Pronouns: she/her
 - 🌱 I’m currently learning React
+- 😄 Pronouns: she/her
 
 
 
